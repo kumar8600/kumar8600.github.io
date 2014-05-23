@@ -1,0 +1,17 @@
+﻿#viewport {
+    background: #444444;
+}
+
+.ribbon a {
+    color: white;
+}
+
+.content-subhead a {
+    color: #1f8dd6;
+    text-decoration: none;
+}
+
+.content-subhead a:hover {
+    color: #156193;
+    text-decoration: underline;
+}
